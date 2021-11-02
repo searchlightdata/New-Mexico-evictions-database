@@ -1,0 +1,8 @@
+{
+
+  'UserName': 'YOURUSERNAME',
+  'Password': 'YOURPASSWORD',
+  'ValidateUser': '1',
+  'dbKeyAuth': 'JusticeAuth',
+  'SignOn': 'Sign On'
+}
