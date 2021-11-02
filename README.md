@@ -1,6 +1,6 @@
 # Analysis of New Mexico Eviction Data  — 01/2010 to 08/2021
 
-This repository contains data, analytic code, and findings that support portions of the article, “[Evictions Epidemic](https://searchlightnm.org/eviction-epidemic),” published November 2, 2021. Please read that article, which contains important context and details, before proceeding.
+This repository contains data, analytic code, and findings that support portions of the article, “[Eviction Epidemic](https://searchlightnm.org/eviction-epidemic),” published November 2, 2021. Please read that article, which contains important context and details, before proceeding.
 
 ## Data
 
