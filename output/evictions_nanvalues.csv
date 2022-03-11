@@ -1,52 +1,52 @@
-caseNumber,filename,caseType,dateFiled,location,judicialOfficer,plaintiff1,plaintiff1Address,plaintiff1Attorney,plaintiff2,plaintiff2Address,plaintiff2Attorney,plaintiff3,plaintiff3Address,plaintiff3Attorney,plaintiff4,plaintiff4Address,plaintiff4Attorney,plaintiff5,plaintiff5Address,plaintiff5Attorney,plaintiff1_cleaned,unified_name
-M-53-CV-2021-00081,8609425,Interpleader,2021-08-03,,"Blankenhorn, Sara",nan,,,,,,,,,,,,,,,nan,nan
-M-14-CV-2021-00647,8562162,Landlord Tenant,2021-06-04,,"Osborne, Norman E.",nan,,,,,,,,,,,,,,,nan,nan
-M-38-CV-2021-00043,8473661,Interpleader,2021-02-02,Alamogordo Magistrate,"Vega, Mickie L.",nan,,,,,,,,,,,,,,,nan,nan
-M-25-CV-2019-00100,8027632,Landlord Tenant,2019-06-07,,"Finger, David E.",nan,,,,,,,,,,,,,,,nan,nan
-M-43-CV-2019-00084,8029275,Landlord Tenant,2019-06-07,,"Naranjo, Alexandra C.",nan,,,,,,,,,,,,,,,nan,nan
-M-38-CV-2019-00310,8071969,Landlord Tenant,2019-07-25,Alamogordo Magistrate,"Guthrie, Steve",nan,,,,,,,,,,,,,,,nan,nan
-M-59-CV-2019-00420,8122790,Landlord Tenant,2019-09-20,,"Sanchez, John W.",nan,,,,,,,,,,,,,,,nan,nan
-M-14-CV-2018-00026,7553727,Landlord Tenant,2018-01-05,,"Jacquez, Richard M.",nan,,,,,,,,,,,,,,,nan,nan
-M-14-CV-2018-00792,7673519,Landlord Tenant,2018-05-14,,"Cano, Joel",nan,,,,,,,,,,,,,,,nan,nan
-M-14-CV-2018-01043,7708464,Landlord Tenant,2018-06-19,,"Kinsella, William M.",nan,,,,,,,,,,,,,,,nan,nan
-M-47-CV-2016-00668,7107506,Interpleader,2016-09-19,,"Hawkinson, Mark Steven",nan,,,,,,,,,,,,,,,nan,nan
-M-14-CV-2017-02313,7539246,Landlord Tenant,2017-12-19,,"Osborne, Norman E.",nan,,,,,,,,,,,,,,,nan,nan
-M-38-CV-2015-00490,6763256,Landlord Tenant,2015-10-14,Alamogordo Magistrate,"Newton, James Scott",nan,,,,,,,,,,,,,,,nan,nan
-M-7-CV-2015-00652,6769963,Interpleader,2015-10-21,Chaves Magistrate,"Rogers, K. C.",nan,,,,,,,,,,,,,,,nan,nan
-M-47-CV-2014-00074,5418365,Interpleader,2014-01-15,,"King, Stanley R.",nan,,,,,,,,,,,,,,,nan,nan
-M-49-CV-2014-00905,6374706,Interpleader,2014-09-05,,"Segura, David A.",nan,,,,,,,,,,,,,,,nan,nan
-M-15-CV-2014-00240,6446724,Landlord Tenant,2014-11-20,,"Singleman, Beverly",nan,,,,,,,,,,,,,,,nan,nan
-M-47-CV-2010-01638,1802492,Interpleader,2010-09-08,,"Hawkinson, Mark Steven",nan,,,,,,,,,,,,,,,nan,nan
-T-4-CV-2010-16835,2303529,Landlord Tenant,2010-01-04,Bernalillo Metropolitan,"Allred, Rosie Lazcano",nan,,,,,,,,,,,,,,,nan,nan
-M-14-CV-2010-01249,3452833,Landlord Tenant,2010-05-18,,"Goodin, Nelson J.",nan,,,,,,,,,,,,,,,nan,nan
-M-14-CV-2010-01458,3453042,Landlord Tenant,2010-06-08,,"Goodin, Nelson J.",nan,,,,,,,,,,,,,,,nan,nan
-M-25-CV-2010-00264,3645183,Landlord Tenant,2010-07-08,,"McCormick, Randall D.",nan,,,,,,,,,,,,,,,nan,nan
-M-43-CV-2010-00079,3811907,Landlord Tenant,2010-02-24,,"Naranjo, Alex M.",nan,,,,,,,,,,,,,,,nan,nan
-M-43-CV-2010-00283,3812108,Landlord Tenant,2010-08-12,,"Naranjo, Alex M.",nan,,,,,,,,,,,,,,,nan,nan
-M-43-CV-2010-00284,3812109,Landlord Tenant,2010-08-12,,"Naranjo, Alex M.",nan,,,,,,,,,,,,,,,nan,nan
-M-49-CV-2010-00803,3862720,Landlord Tenant,2010-06-21,,"Anaya, George, Jr",nan,,,,,,,,,,,,,,,nan,nan
-M-32-CV-2010-00243,4049853,Landlord Tenant,2010-10-22,,"Lamay, Lorena M.",nan,,,,,,,,,,,,,,,nan,nan
-M-59-CV-2010-00165,4388844,Landlord Tenant,2010-04-19,,"Sanchez, John W.",nan,,,,,,,,,,,,,,,nan,nan
-M-59-CV-2010-00230,4388903,Landlord Tenant,2010-06-18,,"Sanchez, John W.",nan,,,,,,,,,,,,,,,nan,nan
-M-59-CV-2010-00486,4389154,Landlord Tenant,2010-12-13,,"Sanchez, John W.",nan,,,,,,,,,,,,,,,nan,nan
-M-47-CV-2011-00831,2542238,Landlord Tenant,2011-05-13,,,nan,,,,,,,,,,,,,,,nan,nan
-T-4-CV-2011-007243,2547789,Landlord Tenant,2011-06-09,Bernalillo Metropolitan,,nan,,,,,,,,,,,,,,,nan,nan
-T-4-CV-2011-007244,2547790,Landlord Tenant,2011-06-09,Bernalillo Metropolitan,,nan,,,,,,,,,,,,,,,nan,nan
-M-14-CV-2011-00347,3454934,Landlord Tenant,2011-02-14,,,nan,,,,,,,,,,,,,,,nan,nan
-M-15-CV-2011-00215,3703515,Landlord Tenant,2011-10-05,,,nan,,,,,,,,,,,,,,,nan,nan
-M-147-CV-2011-00463,3744560,Landlord Tenant,2011-11-15,,,nan,,,,,,,,,,,,,,,nan,nan
-M-32-CV-2011-00156,4050067,Landlord Tenant,2011-09-12,,,nan,,,,,,,,,,,,,,,nan,nan
-M-38-CV-2011-00351,4089136,Landlord Tenant,2011-06-13,Alamogordo Magistrate,,nan,,,,,,,,,,,,,,,nan,nan
-M-38-CV-2011-00562,4089347,Landlord Tenant,2011-08-25,Alamogordo Magistrate,,nan,,,,,,,,,,,,,,,nan,nan
-M-38-CV-2011-00728,4089513,Landlord Tenant,2011-10-17,Alamogordo Magistrate,,nan,,,,,,,,,,,,,,,nan,nan
-M-38-CV-2011-00863,4089648,Landlord Tenant,2011-12-13,Alamogordo Magistrate,,nan,,,,,,,,,,,,,,,nan,nan
-M-40-CV-2011-00117,4309268,Landlord Tenant,2011-06-16,,,nan,,,,,,,,,,,,,,,nan,nan
-M-60-CV-2011-00449,4419846,Landlord Tenant,2011-11-29,,,nan,,,,,,,,,,,,,,,nan,nan
-M-19-CV-2013-00292,5368990,Interpleader,2013-11-06,,"Laney, Maurine",nan,,,,,,,,,,,,,,,nan,nan
-M-147-CV-2012-00005,3958012,Landlord Tenant,2012-01-11,,,nan,,,,,,,,,,,,,,,nan,nan
-M-45-CV-2012-00259,4347629,Landlord Tenant,2012-03-12,,,nan,,,,,,,,,,,,,,,nan,nan
-M-45-CV-2012-00261,4347631,Landlord Tenant,2012-03-12,,,nan,,,,,,,,,,,,,,,nan,nan
-M-45-CV-2012-00262,4347632,Landlord Tenant,2012-03-12,,,nan,,,,,,,,,,,,,,,nan,nan
-M-32-CV-2012-00125,4499829,Landlord Tenant,2012-09-10,,,nan,,,,,,,,,,,,,,,nan,nan
-M-19-CV-2012-00264,4500971,Interpleader,2012-09-11,,,nan,,,,,,,,,,,,,,,nan,nan
-M-59-CV-2012-00443,4812791,Landlord Tenant,2012-10-18,,,nan,,,,,,,,,,,,,,,nan,nan
+caseNumber,filename,caseType,dateFiled,location,judicialOfficer,plaintiff1,plaintiff1_cleaned,unified_name
+M-47-CV-2010-01638,1802492,Interpleader,2010-09-08,,"Hawkinson, Mark Steven",nan,nan,nan
+T-4-CV-2010-16835,2303529,Landlord Tenant,2010-01-04,Bernalillo Metropolitan,"Allred, Rosie Lazcano",nan,nan,nan
+M-14-CV-2010-01249,3452833,Landlord Tenant,2010-05-18,,"Goodin, Nelson J.",nan,nan,nan
+M-14-CV-2010-01458,3453042,Landlord Tenant,2010-06-08,,"Goodin, Nelson J.",nan,nan,nan
+M-25-CV-2010-00264,3645183,Landlord Tenant,2010-07-08,,"McCormick, Randall D.",nan,nan,nan
+M-43-CV-2010-00079,3811907,Landlord Tenant,2010-02-24,,"Naranjo, Alex M.",nan,nan,nan
+M-43-CV-2010-00283,3812108,Landlord Tenant,2010-08-12,,"Naranjo, Alex M.",nan,nan,nan
+M-43-CV-2010-00284,3812109,Landlord Tenant,2010-08-12,,"Naranjo, Alex M.",nan,nan,nan
+M-49-CV-2010-00803,3862720,Landlord Tenant,2010-06-21,,"Anaya, George, Jr",nan,nan,nan
+M-32-CV-2010-00243,4049853,Landlord Tenant,2010-10-22,,"Lamay, Lorena M.",nan,nan,nan
+M-59-CV-2010-00165,4388844,Landlord Tenant,2010-04-19,,"Sanchez, John W.",nan,nan,nan
+M-59-CV-2010-00230,4388903,Landlord Tenant,2010-06-18,,"Sanchez, John W.",nan,nan,nan
+M-59-CV-2010-00486,4389154,Landlord Tenant,2010-12-13,,"Sanchez, John W.",nan,nan,nan
+M-47-CV-2011-00831,2542238,Landlord Tenant,2011-05-13,,,nan,nan,nan
+T-4-CV-2011-007243,2547789,Landlord Tenant,2011-06-09,Bernalillo Metropolitan,,nan,nan,nan
+T-4-CV-2011-007244,2547790,Landlord Tenant,2011-06-09,Bernalillo Metropolitan,,nan,nan,nan
+M-14-CV-2011-00347,3454934,Landlord Tenant,2011-02-14,,,nan,nan,nan
+M-15-CV-2011-00215,3703515,Landlord Tenant,2011-10-05,,,nan,nan,nan
+M-147-CV-2011-00463,3744560,Landlord Tenant,2011-11-15,,,nan,nan,nan
+M-32-CV-2011-00156,4050067,Landlord Tenant,2011-09-12,,,nan,nan,nan
+M-38-CV-2011-00351,4089136,Landlord Tenant,2011-06-13,Alamogordo Magistrate,,nan,nan,nan
+M-38-CV-2011-00562,4089347,Landlord Tenant,2011-08-25,Alamogordo Magistrate,,nan,nan,nan
+M-38-CV-2011-00728,4089513,Landlord Tenant,2011-10-17,Alamogordo Magistrate,,nan,nan,nan
+M-38-CV-2011-00863,4089648,Landlord Tenant,2011-12-13,Alamogordo Magistrate,,nan,nan,nan
+M-40-CV-2011-00117,4309268,Landlord Tenant,2011-06-16,,,nan,nan,nan
+M-60-CV-2011-00449,4419846,Landlord Tenant,2011-11-29,,,nan,nan,nan
+M-147-CV-2012-00005,3958012,Landlord Tenant,2012-01-11,,,nan,nan,nan
+M-45-CV-2012-00259,4347629,Landlord Tenant,2012-03-12,,,nan,nan,nan
+M-45-CV-2012-00261,4347631,Landlord Tenant,2012-03-12,,,nan,nan,nan
+M-45-CV-2012-00262,4347632,Landlord Tenant,2012-03-12,,,nan,nan,nan
+M-32-CV-2012-00125,4499829,Landlord Tenant,2012-09-10,,,nan,nan,nan
+M-19-CV-2012-00264,4500971,Interpleader,2012-09-11,,,nan,nan,nan
+M-59-CV-2012-00443,4812791,Landlord Tenant,2012-10-18,,,nan,nan,nan
+M-19-CV-2013-00292,5368990,Interpleader,2013-11-06,,"Laney, Maurine",nan,nan,nan
+M-47-CV-2014-00074,5418365,Interpleader,2014-01-15,,"King, Stanley R.",nan,nan,nan
+M-49-CV-2014-00905,6374706,Interpleader,2014-09-05,,"Segura, David A.",nan,nan,nan
+M-15-CV-2014-00240,6446724,Landlord Tenant,2014-11-20,,"Singleman, Beverly",nan,nan,nan
+M-38-CV-2015-00490,6763256,Landlord Tenant,2015-10-14,Alamogordo Magistrate,"Newton, James Scott",nan,nan,nan
+M-7-CV-2015-00652,6769963,Interpleader,2015-10-21,Chaves Magistrate,"Rogers, K. C.",nan,nan,nan
+M-47-CV-2016-00668,7107506,Interpleader,2016-09-19,,"Hawkinson, Mark Steven",nan,nan,nan
+M-14-CV-2017-02313,7539246,Landlord Tenant,2017-12-19,,"Osborne, Norman E.",nan,nan,nan
+M-14-CV-2018-00026,7553727,Landlord Tenant,2018-01-05,,"Jacquez, Richard M.",nan,nan,nan
+M-14-CV-2018-00792,7673519,Landlord Tenant,2018-05-14,,"Cano, Joel",nan,nan,nan
+M-14-CV-2018-01043,7708464,Landlord Tenant,2018-06-19,,"Kinsella, William M.",nan,nan,nan
+M-25-CV-2019-00100,8027632,Landlord Tenant,2019-06-07,,"Finger, David E.",nan,nan,nan
+M-43-CV-2019-00084,8029275,Landlord Tenant,2019-06-07,,"Naranjo, Alexandra C.",nan,nan,nan
+M-38-CV-2019-00310,8071969,Landlord Tenant,2019-07-25,Alamogordo Magistrate,"Guthrie, Steve",nan,nan,nan
+M-59-CV-2019-00420,8122790,Landlord Tenant,2019-09-20,,"Sanchez, John W.",nan,nan,nan
+M-53-CV-2021-00081,8609425,Interpleader,2021-08-03,,"Blankenhorn, Sara",nan,nan,nan
+M-14-CV-2021-00647,8562162,Landlord Tenant,2021-06-04,,"Osborne, Norman E.",nan,nan,nan
+M-38-CV-2021-00043,8473661,Interpleader,2021-02-02,Alamogordo Magistrate,"Vega, Mickie L.",nan,nan,nan
