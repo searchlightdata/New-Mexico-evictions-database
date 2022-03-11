@@ -5,7 +5,7 @@ This repository contains data, analytic code, and findings that support portions
 ## Data
 
 This analysis uses the following spreadsheets:
-- [`data/eviction_cases/allCases_2010_anonymized.csv`](data/eviction_cases/allCases_2010_anonymized.csv), [`data/eviction_cases/allCases_2011_anonymized.csv`](data/eviction_cases/allCases_2011_anonymized.csv), etc. which contain all eviction cases from the past ten years. The data was collected from New Mexico's electronic court records website, Secured Odyssey Public Access (SOPA). For 51 cases, the courts did not list a plaintiff. While these cases were included in overall tallies, they did not factor into charts of top evictors.
+- [`data/eviction_cases/allCases_2010_2021_Until_9.1.21_anonymized`](data/eviction_cases/allCases_2010_2021_Until_9.1.21_anonymized.csv), which contain all eviction cases from the past ten years. The data was collected from New Mexico's electronic court records website, Secured Odyssey Public Access (SOPA). For 51 cases, the courts did not list a plaintiff. While these cases were included in overall tallies, they did not factor into charts of top evictors.
 
 - [`data/walkover_cleaned_names.csv`](data/walkover_cleaned_names.csv) Where appropriate, New Mexico Searchlight also combined several company names for the 50 plaintiffs who filed the most evictions in the past ten years, based on reporting.
 
@@ -19,7 +19,7 @@ The scraper [`scripts/scraper.py`](scripts/scraper.py) was used to search New Me
 - Case types include the following categories: `Landlord Tenant`, `Mobile Home Park`, `Forcible Detainer`, and `Interpleader`. These are the types of cases that Samuel Taub, a law student at University of New Mexico, is using to track evictions. He describes that methodology [here](https://www.nmevictions.org/?page_id=903). 
 - Years for each search are hardcoded in. We began in 2010 and gathered data from each year, with the exception of 2021. In 2021, we ran the scraper for all months up to August 24th.
 
-After scraping case summary pages from SOPA, the parser [`scripts/parser.py`](scripts/parser.py) extracted important information from each case summary. This information includes details such as the parties involved, the date the case was filed, and the name of the judicial officer. The parser then writes that information into `.csv` files for each year. The CSV files in [`eviction_cases`](eviction_cases) are the results of the scraping and parsing process.
+After scraping case summary pages from SOPA, the parser [`scripts/parser.py`](scripts/parser.py) extracted important information from each case summary. This information includes details such as the parties involved, the date the case was filed, and the name of the judicial officer. The parser then writes that information into `.csv` files for each year. The CSV file in [`eviction_cases`](eviction_cases) is the results of the scraping and parsing process.
 
 ### Cleaning and Analysis
 The notebook [`notebooks/01-newmexico-eviction-analysis.ipynb`](notebooks/01-newmexico-eviction-analysis.ipynb) performs the following analyses:
